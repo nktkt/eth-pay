@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "eth-blue": "#627EEA",
+        "eth-dark": "#0A0E27",
+        "eth-card": "#141836",
+        "eth-border": "#1E2448",
       },
     },
   },
